@@ -1,0 +1,39 @@
+{
+  "name": "carlcs/craft-pushovernotificationchannel",
+  "description": "A Pushover notification channel for the Craft Notifications plugin",
+  "version": "1.0.0",
+  "type": "craft-plugin",
+  "keywords": [
+      "pushover",
+      "notifications",
+      "craftcms"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "carlcs",
+      "homepage": "https://github.com/carlcs"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/carlcs/craft-pushovernotificationchannel/issues?state=open",
+    "source": "https://github.com/carlcs/craft-pushovernotificationchannel",
+    "docs": "https://github.com/carlcs/craft-pushovernotificationchannel",
+    "rss": "https://github.com/carlcs/craft-pushovernotificationchannel/commits/v2.atom"
+  },
+  "require": {
+    "craftcms/cms": "^3.0.0-RC1",
+    "rias/craft-notifications": "^1.0.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "carlcs\\pushovernotificationchannel\\": "src/"
+    }
+  },
+  "extra": {
+    "name": "Pushover Notification Channel",
+    "handle": "pushover-notification-channel",
+    "changelogUrl": "https://github.com/carlcs/craft-pushovernotificationchannel/raw/v2/CHANGELOG.md",
+    "downloadUrl": "https://github.com/carlcs/craft-pushovernotificationchannel/archive/v2.zip"
+  }
+}
