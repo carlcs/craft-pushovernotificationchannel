@@ -1,7 +1,7 @@
 Changelog
 =========
 
-## 1.0.0 - 2018-03-01
+## 1.0.0 - 2018-03-09
 
 ### Added
 - Initial release.

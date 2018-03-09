@@ -19,7 +19,7 @@
     "issues": "https://github.com/carlcs/craft-pushovernotificationchannel/issues?state=open",
     "source": "https://github.com/carlcs/craft-pushovernotificationchannel",
     "docs": "https://github.com/carlcs/craft-pushovernotificationchannel",
-    "rss": "https://github.com/carlcs/craft-pushovernotificationchannel/commits/v2.atom"
+    "rss": "https://github.com/carlcs/craft-pushovernotificationchannel/commits/v1.atom"
   },
   "require": {
     "craftcms/cms": "^3.0.0-RC1",
@@ -33,7 +33,7 @@
   "extra": {
     "name": "Pushover Notification Channel",
     "handle": "pushover-notification-channel",
-    "changelogUrl": "https://github.com/carlcs/craft-pushovernotificationchannel/raw/v2/CHANGELOG.md",
-    "downloadUrl": "https://github.com/carlcs/craft-pushovernotificationchannel/archive/v2.zip"
+    "changelogUrl": "https://github.com/carlcs/craft-pushovernotificationchannel/raw/v1/CHANGELOG.md",
+    "downloadUrl": "https://github.com/carlcs/craft-pushovernotificationchannel/archive/v1.zip"
   }
 }
